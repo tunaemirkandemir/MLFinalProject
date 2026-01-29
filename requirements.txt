@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib.pyplot
+from sklearn.model_selection : train_test_split, GridSearchCV, StratifiedKFold
+from sklearn.preprocessing : StandardScaler, LabelEncoder
+from sklearn.dummy : DummyClassifier
+from sklearn.ensemble : RandomForestClassifier
+from sklearn.linear_model : LogisticRegression
+from sklearn.metrics : classification_report, confusion_matrix, ConfusionMatrixDisplay, f1_score, accuracy_score, roc_auc_score, roc_curve
+seaborn
+from sklearn.decomposition : PCA
